@@ -146,11 +146,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 <p>
   
+<img width="825" height="741" alt="image" src="https://github.com/user-attachments/assets/e06c5962-8e2f-47b7-a771-fa8ae84b6b05" />
+  
   __Step 7__: Complete osTicket Web Setup:
   - Refresh the osTicket installer web page → select **_“Continue“_**
   - Fill out **_"System Settings"_** → **_"Admin User"_** → **_"Database Settings"_** fields
   - Select **_"Install Now"_**
-<img width="825" height="741" alt="image" src="https://github.com/user-attachments/assets/e06c5962-8e2f-47b7-a771-fa8ae84b6b05" />
 </p>
 <br />
 <p>
@@ -163,6 +164,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   
 Congratulations! Hopefully, the installation has been completed without any errors.
+</p>
+<img width="825" height="741" alt="image" src="https://github.com/user-attachments/assets/b53a18f8-af68-4fb6-b22f-75baf2c10ae2" />
 </p>
 <br />
 <p>
