@@ -248,6 +248,6 @@ __Useful Links__:
 
 <h2>Closing Thoughts</h2>
 
-Completing this NSG and traffic inspection lab made networking feel real. I captured ICMP, SSH, DHCP, DNS, and RDP in Wireshark, then tweaked NSG rules to allow/deny traffic and monitored the impact in real time. That end-to-end loop of *configure* → *test* → *observe* → *fix* mirrors how IT teams secure, troubleshoot, and operate networks every day.
+Completing the prerequisites and installation of osTicket highlights the importance of a strong technical foundation in any system deployment. Properly configuring IIS, PHP, MySQL, and related components ensures both stability and security, which are essential for long-term performance.
 </p>
 <br />
